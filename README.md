@@ -18,10 +18,7 @@ If you are tech-savvy and go well with computers and logic, you can start with a
 Courses:
 - [Harvard: CS50 Introduction to computer science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 - [Harvard: CS50P Python](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
-Books:
-- 
-Videos:
-- 
+
 
 # 2
 Once you have a better handling of Python and maybe even made a project yourself, you can start aiming towards AI.
